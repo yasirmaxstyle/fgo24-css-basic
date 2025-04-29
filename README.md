@@ -8,25 +8,25 @@ This project is created to provide a brief information about [Yasirmaxstyle](htt
 ### Download and installation
 
 1. Clone the repository
-```properties
+```sh
 git clone https://github.com/yasirmaxstyle/fgo24-css-basic.git
 ```
-2. Install npm
-```properties
+2. Install `npm`
+```sh
 npm install -y
 ```
-3. Install live-server to run the project in dev dependencies
-```properties
+3. Install `live-server` to run the project in `dev` dependencies
+```sh
 npm install -D live-server
 ```
-4. Add script dev in package.json with value live-server
-```c
+4. Add script `dev` in `package.json` with value `live-server`
+```javascript
 "scripts": {
     "dev": "live-server"
 }
 ```
 5. Run the project
-```properties
+```sh
 npm run dev
 ```
 ## How to take part in this project
