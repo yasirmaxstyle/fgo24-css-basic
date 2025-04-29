@@ -1,6 +1,6 @@
 # ABOUT THIS PROJECT
 
-This project is created to provide a brief information about Yasirmaxstyle and as the media for practicing basic html and CSS style.
+This project is created to provide a brief information about [Yasirmaxstyle](https://github.com/yasirmaxstyle) and as the media for practicing basic html and CSS style.
 
 ## How to run this project
 ### Requirement
