@@ -1,6 +1,6 @@
 # ABOUT THIS PROJECT
 
-This project is created to provide a brief information about Yasirmaxstyle and as the media for practicing basic html style.
+This project is created to provide a brief information about Yasirmaxstyle and as the media for practicing basic html and CSS style.
 
 ## How to run this project
 ### Requirement
@@ -9,7 +9,7 @@ This project is created to provide a brief information about Yasirmaxstyle and a
 
 1. Clone the repository
 ```properties
-git clone https://github.com/yasirmaxstyle/fgo24-html-basic.git
+git clone https://github.com/yasirmaxstyle/fgo24-css-basic.git
 ```
 2. Install npm
 ```properties
